@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="LocacaoService (1)" project="TestesUnitarios" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="br.ce.wcaquino.servicos.LocacaoService" time="0.043">
-    <testcase name="teste" classname="br.ce.wcaquino.servicos.LocacaoService" time="0.043"/>
-  </testsuite>
-</testrun>
