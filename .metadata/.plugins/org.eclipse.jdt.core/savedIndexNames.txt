@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/gallo/Área de Trabalho/cursoTestesUnitarios/.metadata/.plugins/org.eclipse.jdt.core
+2665131034.index
+646308851.index
