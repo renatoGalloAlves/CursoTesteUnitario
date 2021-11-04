@@ -383,3 +383,47 @@
 2021-11-03 16:53:18,425 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2021-11-03 16:53:18,425 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gallo/Área de Trabalho/cursoTestesUnitarios/TestesUnitarios/src/test/resources
 2021-11-03 17:08:53,270 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-11-03 17:55:37,540 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-03 17:55:37,545 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gallo/Área de Trabalho/cursoTestesUnitarios/TestesUnitarios/src/main/resources
+2021-11-03 17:55:37,547 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-03 17:55:37,548 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gallo/Área de Trabalho/cursoTestesUnitarios/TestesUnitarios/src/test/resources
+2021-11-04 10:51:38,671 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-04 10:51:38,672 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gallo/Área de Trabalho/cursoTestesUnitarios/TestesUnitarios/src/main/resources
+2021-11-04 10:51:38,674 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-04 10:51:38,675 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gallo/Área de Trabalho/cursoTestesUnitarios/TestesUnitarios/src/test/resources
+2021-11-04 10:52:24,019 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-04 10:52:24,020 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gallo/Área de Trabalho/cursoTestesUnitarios/TestesUnitarios/src/main/resources
+2021-11-04 10:52:24,022 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-04 10:52:24,023 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gallo/Área de Trabalho/cursoTestesUnitarios/TestesUnitarios/src/test/resources
+2021-11-04 10:55:33,906 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-04 10:55:33,907 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gallo/Área de Trabalho/cursoTestesUnitarios/TestesUnitarios/src/main/resources
+2021-11-04 10:55:33,909 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-04 10:55:33,909 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gallo/Área de Trabalho/cursoTestesUnitarios/TestesUnitarios/src/test/resources
+2021-11-04 11:06:36,796 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-04 11:06:36,797 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gallo/Área de Trabalho/cursoTestesUnitarios/TestesUnitarios/src/main/resources
+2021-11-04 11:06:36,799 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-04 11:06:36,800 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gallo/Área de Trabalho/cursoTestesUnitarios/TestesUnitarios/src/test/resources
+2021-11-04 11:15:48,812 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-04 11:15:48,812 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gallo/Área de Trabalho/cursoTestesUnitarios/TestesUnitarios/src/main/resources
+2021-11-04 11:15:48,817 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-04 11:15:48,819 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gallo/Área de Trabalho/cursoTestesUnitarios/TestesUnitarios/src/test/resources
+2021-11-04 11:18:19,433 [Worker-32: Launching AssertTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-04 11:18:19,434 [Worker-32: Launching AssertTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gallo/Área de Trabalho/cursoTestesUnitarios/TestesUnitarios/src/main/resources
+2021-11-04 11:18:19,436 [Worker-32: Launching AssertTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-04 11:18:19,437 [Worker-32: Launching AssertTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gallo/Área de Trabalho/cursoTestesUnitarios/TestesUnitarios/src/test/resources
+2021-11-04 11:58:49,884 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-04 11:58:49,885 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gallo/Área de Trabalho/cursoTestesUnitarios/TestesUnitarios/src/main/resources
+2021-11-04 11:58:49,887 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-04 11:58:49,888 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gallo/Área de Trabalho/cursoTestesUnitarios/TestesUnitarios/src/test/resources
+2021-11-04 12:03:30,285 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-04 12:03:30,285 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gallo/Área de Trabalho/cursoTestesUnitarios/TestesUnitarios/src/main/resources
+2021-11-04 12:03:30,287 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-04 12:03:30,288 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gallo/Área de Trabalho/cursoTestesUnitarios/TestesUnitarios/src/test/resources
+2021-11-04 12:16:07,501 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-04 12:16:07,502 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gallo/Área de Trabalho/cursoTestesUnitarios/TestesUnitarios/src/main/resources
+2021-11-04 12:16:07,506 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-04 12:16:07,507 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gallo/Área de Trabalho/cursoTestesUnitarios/TestesUnitarios/src/test/resources
+2021-11-04 12:17:06,100 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-04 12:17:06,100 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gallo/Área de Trabalho/cursoTestesUnitarios/TestesUnitarios/src/main/resources
+2021-11-04 12:17:06,102 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-04 12:17:06,102 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gallo/Área de Trabalho/cursoTestesUnitarios/TestesUnitarios/src/test/resources
