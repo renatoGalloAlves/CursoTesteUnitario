@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="br.ce.wcaquino.utils.DataUtils"/>
+    <fullyQualifiedTypeName name="br.ce.wcaquino.servicos.LocacaoService"/>
     <fullyQualifiedTypeName name="org.junit.Test"/>
     <fullyQualifiedTypeName name="org.junit.Assert"/>
-    <fullyQualifiedTypeName name="br.ce.wcaquino.servicos.LocacaoService"/>
+    <fullyQualifiedTypeName name="br.ce.wcaquino.entidades.Usuario"/>
+    <fullyQualifiedTypeName name="org.hamcrest.CoreMatchers"/>
+    <fullyQualifiedTypeName name="org.junit.Rule"/>
+    <fullyQualifiedTypeName name="org.junit.rules.ErrorCollector"/>
 </qualifiedTypeNameHistroy>

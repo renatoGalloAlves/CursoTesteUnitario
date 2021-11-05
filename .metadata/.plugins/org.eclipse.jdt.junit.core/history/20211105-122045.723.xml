@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="LocacaoServiceTest (1)" project="TestesUnitarios" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="br.ce.wcaquino.servicos.LocacaoServiceTest" time="0.03">
+    <testcase name="testeLocacao" classname="br.ce.wcaquino.servicos.LocacaoServiceTest" time="0.029"/>
+    <testcase name="testeLocacao_filmeSemEstoque" classname="br.ce.wcaquino.servicos.LocacaoServiceTest" time="0.001"/>
+  </testsuite>
+</testrun>
