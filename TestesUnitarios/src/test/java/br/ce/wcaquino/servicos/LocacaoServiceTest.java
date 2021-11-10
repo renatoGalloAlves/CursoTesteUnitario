@@ -20,6 +20,8 @@ import org.junit.rules.ExpectedException;
 import br.ce.wcaquino.entidades.Filme;
 import br.ce.wcaquino.entidades.Locacao;
 import br.ce.wcaquino.entidades.Usuario;
+import br.ce.wcaquino.exceptions.FilmeSemEstoqueException;
+import br.ce.wcaquino.exceptions.LocadoraException;
 import br.ce.wcaquino.servicos.LocacaoService;
 import br.ce.wcaquino.utils.DataUtils;
 
@@ -55,40 +57,43 @@ public class LocacaoServiceTest {
 			error.checkThat(isMesmaData(locacao.getDataRetorno(), obterDataComDiferencaDias(1)), is(true));
 	}
 
-	@Test(expected=Exception.class)
+	@Test(expected=FilmeSemEstoqueException.class)
 	public void testeLocacao_filmeSemEstoque() throws Exception {
 		LocacaoService service= new LocacaoService();
 		Usuario usuario = new Usuario("Usuario 1");
 		Filme filme = new Filme("Filme1", 0 , 5.0);
 		
-		service.alugarFilme (usuario, filme);		
-		
+		service.alugarFilme (usuario, filme);			
 	}
 	
 	@Test
-	public void testeLocacao_filmeSemEstoque2() {
+	public void testeLocacao_usuarioVazio() throws FilmeSemEstoqueException {
 		LocacaoService service= new LocacaoService();
-		Usuario usuario = new Usuario("Usuario 1");
-		Filme filme = new Filme("Filme1", 0 , 5.0);
+		Filme filme = new Filme("Filme1", 1 , 5.0);	
 		
 		try {
-			service.alugarFilme (usuario, filme);
-		} catch (Exception e) {
-			assertThat(e.getMessage(), is("Filme sem estoque!"));
-		}			
-	}	
+			service.alugarFilme (null, filme);
+			Assert.fail();
+			} catch (LocadoraException e) {
+		assertThat(e.getMessage(), is("Usuário vazio"));
+		}
+	}
 	
 	@Test
-	public void testeLocacao_filmeSemEstoque3() throws Exception {
+	public void testeLocacao_FilmeVazio() throws FilmeSemEstoqueException, LocadoraException {
 		LocacaoService service= new LocacaoService();
 		Usuario usuario = new Usuario("Usuario 1");
-		Filme filme = new Filme("Filme1", 0 , 5.0);
 		
-		exception.expect(Exception.class);
-		exception.expectMessage("Filme sem estoque!");
+		exception.expect(LocadoraException.class);
+		exception.expectMessage("Filme vazio");
 		
-		service.alugarFilme (usuario, filme);	
+		service.alugarFilme (usuario, null);
 		
+		
+		
+		 
 	}
+	
 }
-
+	
+	
